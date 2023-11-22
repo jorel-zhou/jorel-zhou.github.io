@@ -4,7 +4,6 @@ site_author: Jorel Zhou
 site_url: https://junzhou.site
 theme:
   name: material
-  custom_dir: overrides
   language: en
   logo: assets/logo.png
   favicon: images/favicon.png
