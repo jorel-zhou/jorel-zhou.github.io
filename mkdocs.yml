@@ -1,0 +1,94 @@
+site_name: Cobra Notebooks
+site_description: Cobra MD Notebooks
+site_author: Jorel Zhou
+site_url: https://junzhou.site
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  logo: assets/logo.png
+  favicon: images/favicon.png
+
+  palette:
+  - media: "(prefers-color-scheme: light)"
+    scheme: Fluent Design
+    primary: custom
+    accent: orange
+    toggle:
+      icon: material/weather-night
+      name: Switch to dark mode
+  - media: "(prefers-color-scheme: dark)"
+    scheme: Fluent Design
+    primary: custom
+    accent: amber
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to light mode
+      
+  font:
+    text: "Noto Sans Simplified Chinese"
+    code: "Fira Code"
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - toc.follow
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - navigation.footer
+extra_css:
+  - stylesheets/extra.css
+extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Chinese
+      link: /zh/
+      lang: zh
+  consent:
+    title: Cookie Consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jorel-zhou
+    - icon: material/wechat
+      link: https://github.com/jorel-zhou
+copyright: >
+  Copyright &copy; 2023 - 2023 Jorel Zhou –
+  <a href="#__consent">修改Cookie设置</a>
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+plugins:
+  - search
+nav:
+- Home: index.md
+- Cloud:  
+  - markdowns/cloud/aws.md
+- Architecture: 
+  - markdowns/architecture/microservice.md
+- DevOps:  
+  - markdowns/devops/ulimit.md
+  - markdowns/devops/ssl-certificate.md
+- Security:  
+  - markdowns/security/docker.md
+- Development:  markdowns/development/scrum.md
+- Tools:  
+  - markdowns/tools/1remote.md
+- Reference:  
+  - Shell Command:
+    - markdowns/reference/curl.md
