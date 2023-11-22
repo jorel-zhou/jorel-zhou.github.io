@@ -1,0 +1,1 @@
+ Copyright (C) ${license.year}, ${license.owner}

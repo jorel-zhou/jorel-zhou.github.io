@@ -2,7 +2,7 @@
 
 大概7年前公司项目开始全面推行敏捷开发，当时我们从未想过一个开发流程会进行的如此不顺利。而Scrum Methodoloty在几天的培训过程中虽看起来比较清晰易懂，但实际运作起来我们发现总会遇到这样或那样的问题，光Sprint Planning Meeting中的估算着实让我们头疼了很久。
 
-<!-- ![scrum]({{ "/assets/domains/fig-scrum-process.gif" }}) -->
+![scrum](../../images/fig-scrum-process.gif)
 
 如何进行有效的估算成为运作成功的Scrum方法学的一个关键因素。与传统的项目管理使用人天或人月的方式进行项目的估算方式不同，Scrum中的估算应以用户故事的难易级别来划分，我们常用的有如下几种：
 - 数字大小 （1 - 10）
@@ -16,7 +16,7 @@
 3. 估算的目的是我们能够通过Burndown和Velocity图去评估和跟踪每个Sprint的进展情况，进而找出改善Sprint运作效率的点，而不是限定每个成员一定要做多少工作量的任务，与传统的计划驱动的项目有本质的区别。在燃尽图中的体现因是多少用户故事已被完成，而不是燃尽了多少的时间，因为时间的盒子已通过Sprint的2周或3周被定义了。
 4. 成员在Sprint中每天填入工作在某任务上的时间一旦与估算的时间联系在一起，就会存在过早燃尽估算时间或多余时间，那么就可能在Sprint中需要频繁的调整估算。
 
-<!-- ![scrum]({{ "/assets/domains/estimations.jpg" | relative_url }}) -->
+![scrum](../../images/estimations.jpg)
 
 ### 估算流程
 
