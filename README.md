@@ -3,7 +3,7 @@
 It is automatically transformed by [mkdocs](https://www.mkdocs.org/)
 into a static site whenever I push this repository to GitHub.
 
-I want to have my work experience, ideas, some interesting articles, some 
+I'd like to have my work experience, ideas, some interesting articles, some 
 markdown documents and memo saving in this site.
 
 ## License

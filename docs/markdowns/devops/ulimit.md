@@ -6,7 +6,7 @@ ulimit为Linux系统内核参数, 其作用主要是限制每个用户所能够�
 
 ![ulimit](../../images/ulimit.png)
 
-```
+```bash
 ulimit [-SHacdefilmnpqrstuvx]
 参数S：表示软限制，当超过限制值会报警
 参数H：表示硬限制，必定不能超过限制值
@@ -29,7 +29,7 @@ ulimit [-SHacdefilmnpqrstuvx]
 ### 使ulimit修改永久生效
 修改`/etc/security/limits.conf`文件，`*`指所有用户的默认limit, 如下图52-55行定义了该`propel`账户在运行时的limit.
 
-```
+```bash
 -bash-4.1$ vim /etc/security/limits.conf
  42 #*               soft    core            0
  43 #*               hard    rss             10000

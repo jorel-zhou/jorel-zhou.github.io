@@ -9,14 +9,14 @@ keytool -delete -alias sample.alias -keystore sample.keystore -storepass sample.
 openssl s_client -host google.com -port 443 -prexit -showcerts
 ```
 ### make keystore with pem certificate
-```
+```bash
 cat myhost.pem intermediate.pem root.pem > import.pem
 openssl pkcs12 -export -in import.pem -inkey myhost.key.pem -name shared > server.p12
 keytool -importkeystore -srckeystore server.p12 -destkeystore store.keys -srcstoretype pkcs12 -alias shared
 ```
 
 ### change keypassword
-```
+```bash
 keytool -keypasswd -alias alias.sample -keypass sample.pass -new sample.pass  -keystore .keystore -storepass sample.pass
 
 # Verify key/cert pair matching, follow value should be same (first for the certificate file;second for the key file)
@@ -25,7 +25,7 @@ openssl rsa -noout -modulus -in <encrypted>.key | openssl md5
 ```
 
 ### check/get server side certificate
-```
+```bash
 echo | openssl s_client -servername server -connect server:port 2>/dev/null | openssl x509 -text
 echo | openssl s_client -connect server:port 2>&1 | sed -ne '/-BEGIN CERTIFICATE-/,/-END CERTIFICATE-/p' > cert.pem
 
@@ -36,14 +36,14 @@ openssl s_client -showcerts -verify 5 -connect www.domain.com:443 < /dev/null
 ```
 
 ### convert certificate
-```
+```bash
 openssl x509 -in cert.pem -inform PEM -out cert.der -outform DER
 ```
 
 
 ## Linux Server Network
 ### check tcp connections 
-```
+```bash
 netstat -n | awk '/^tcp/ {++S[$NF]} END {for(a in S) print a, S[a]}'
 netstat -nat|grep ESTABLISHED|wc -l
 netstat -nat|grep -i "9444"|wc -l
@@ -65,7 +65,7 @@ LAST_ACK：等待所有分组死掉
 
 ## Linux Server Performance Tunning
 ### check linux server performance
-```
+```bash
 cat /proc/cpuinfo |grep "physical id"|sort |uniq|wc -l
 cat /proc/cpuinfo |grep "processor"|wc -l
 cat /proc/cpuinfo |grep "cores"|uniq
