@@ -113,6 +113,7 @@ nav:
 - DevOps:  
   - markdowns/devops/ulimit.md
   - markdowns/devops/ssl-certificate.md
+  - markdowns/devops/ansible-var-precedence.md
 - Security:  
   - markdowns/security/docker.md
 - Development:  
