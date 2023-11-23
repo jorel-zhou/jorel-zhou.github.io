@@ -56,3 +56,21 @@ git clone --filter=blob:none --no-checkout git@codeup.aliyun.com:6125fa3a03f23ad
    ```
 
 更详细的关于部分检出可参考 [部分检出](https://help.aliyun.com/document_detail/309002.html?spm=a2c4g.324161.0.i1)
+
+
+#### 提交历史
+```bash
+git log --graph --pretty='%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%ad) %C(bold blue)<%an>%Creset' --date=short
+```
+
+#### Git LFS
+```bash
+# Skip smudge - We'll download binary files later in a faster batch
+git lfs install --skip-smudge
+# Do git clone here
+git clone ...
+#Fetch all the binary files in the new clone 
+git lfs pull
+#Reinstate smudge
+git lfs install --force 
+```
