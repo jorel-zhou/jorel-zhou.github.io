@@ -120,6 +120,7 @@ nav:
 - Development:  
   - markdowns/development/scrum.md
   - markdowns/development/maven.md
+  - markdowns/development/git.md
 - Tools:  
   - markdowns/tools/curl.md
 - Reference:  

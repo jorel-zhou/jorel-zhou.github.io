@@ -1,3 +1,7 @@
+---
+icon: simple/curl
+---
+
 通过proxy调用curl下载文件, 在共享屏幕的时候```-u```后只输入用户名
 
 ```bash

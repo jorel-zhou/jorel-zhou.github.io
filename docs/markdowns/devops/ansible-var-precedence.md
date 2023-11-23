@@ -1,3 +1,7 @@
+---
+icon: material/ansible
+---
+
 Ansible does apply variable precedence, and you might have a use for it. Here is the order of precedence from least to greatest (the last listed variables override all other variables):
 
 1. command line values (for example, -u my_user, these are not variables)

@@ -1,3 +1,7 @@
+---
+icon: fontawesome/brands/jenkins
+---
+
 ### Jenkins Pipeline传大文件
 
 通过git-lfs可以对大文件进行管理，利用该特性使用jenkins pipeline将本地build出的artifacts同步进数据中心中

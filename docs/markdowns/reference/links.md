@@ -1,5 +1,5 @@
 ---
-icon: material/tooltip-plus
+icon: material/link-plus
 ---
 
 ### Java

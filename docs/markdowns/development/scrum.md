@@ -1,6 +1,10 @@
+---
+icon: simple/scrumalliance
+---
+
 ### 估算指标的定义
 
-大概7年前公司项目开始全面推行敏捷开发，当时我们从未想过一个开发流程会进行的如此不顺利。而Scrum Methodoloty在几天的培训过程中虽看起来比较清晰易懂，但实际运作起来我们发现总会遇到这样或那样的问题，光Sprint Planning Meeting中的估算着实让我们头疼了很久。
+大概14年前公司项目开始全面推行敏捷开发，当时我们从未想过一个开发流程会进行的如此不顺利。而Scrum Methodoloty在几天的培训过程中虽看起来比较清晰易懂，但实际运作起来我们发现总会遇到这样或那样的问题，光Sprint Planning Meeting中的估算着实让我们头疼了很久。
 
 ![scrum](../../images/fig-scrum-process.gif)
 

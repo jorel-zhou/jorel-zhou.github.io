@@ -1,3 +1,6 @@
+---
+icon: simple/apachemaven
+---
 
 maven ~/.m2/中常用的几个配置文件
 
