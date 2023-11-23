@@ -117,6 +117,7 @@ nav:
   - markdowns/devops/jenkins.md
   - markdowns/devops/openshift.md
   - markdowns/devops/airflow.md
+  - markdowns/devops/postgresql.md
 - Security:  
   - markdowns/security/docker.md
 - Development:  
