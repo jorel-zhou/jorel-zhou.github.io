@@ -429,7 +429,7 @@ icon: fontawesome/brands/jenkins
                             factDefinitions: [
                                                 [name: "Commit #:", template: "[${env.GIT_COMMIT.take(7)}](${env.GIT_HTTP_URL}/commit/${env.GIT_COMMIT})"]
                                             ],
-                            webhookUrl:'https://outlook.office.com/webhook/0f68ca24-dc39-4609-a373-76548a3c718c@93f33571-550f-43cf-b09f-cd331338d086/JenkinsCI/52cdb285ad3249dc932a643f39c0512b/877518cb-a947-4334-a976-eb4da61836c3'
+                            webhookUrl:'https://outlook.office.com/webhook/xxx'
         )
     }
     ```
