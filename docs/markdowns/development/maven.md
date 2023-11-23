@@ -108,10 +108,15 @@ mvn clean package -am -pl gt-generation/gt-generation-spark
 mvn test -pl :labeler -Dsuites='com.sample.test.DayTimeLabelerTest'
 ```
 
-### 增加公司Copyright头
+#### 增加公司Copyright头
 
 maven license plugin is configured to add
 [copyright-header.txt](../../templates/copyright-header.txt) to src files.
 
 - Use `mvn license:check` to check if files compliance with copyright header
 - Use `mvn license:format` to format files based on predefined copyright header
+
+#### maven docker build指定模块
+```bash
+mvn docker:build -am -pl :vin-whitelisting-api
+```
