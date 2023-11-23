@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "Noto Sans Simplified Chinese";
-  src: "../fonts/NotoSansSC-VariableFont_wght.ttf";
+  font-family: "Roboto";
+  src: "../fonts/Roboto-Regular.ttf";
 }
 
 @font-face {
@@ -13,7 +13,7 @@
   --md-primary-fg-color--light: #0078D7;
   --md-primary-fg-color--dark: #0078D7; */
 
-  --md-text-font: "Noto Sans Simplified Chinese";
+  --md-text-font: "Roboto";
   --md-code-font: "Fira Code";
 }
 
@@ -28,5 +28,5 @@
 }
 
 .md-typeset {
-  font-size: .75rem;
+  font-size: .7rem;
 }

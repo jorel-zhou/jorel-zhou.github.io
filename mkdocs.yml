@@ -25,7 +25,7 @@ theme:
       name: Switch to light mode
       
   font:
-    text: "Noto Sans Simplified Chinese"
+    text: "Roboto"
     code: "Fira Code"
   features:
     - navigation.instant
