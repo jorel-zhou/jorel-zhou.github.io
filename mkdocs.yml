@@ -114,13 +114,14 @@ nav:
   - markdowns/devops/ulimit.md
   - markdowns/devops/ssl-certificate.md
   - markdowns/devops/ansible-var-precedence.md
+  - markdowns/devops/jenkins.md
 - Security:  
   - markdowns/security/docker.md
 - Development:  
   - markdowns/development/scrum.md
   - markdowns/development/maven.md
 - Tools:  
-  - markdowns/tools/links.md
+  - markdowns/tools/curl.md
 - Reference:  
   - Shell Command:
-    - markdowns/reference/curl.md
+    - markdowns/reference/links.md
