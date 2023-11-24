@@ -2,9 +2,7 @@
 icon: material/docker
 ---
 
-#### Docker Runtime Vulnerability Scanning
-
-#### CIS benchmark
+#### CIS benchmark (Docker Runtime Vulnerability Scanning)
 ```bash
 docker run --rm --net host --pid host --userns host --cap-add audit_control \
     -e DOCKER_CONTENT_TRUST=$DOCKER_CONTENT_TRUST \
