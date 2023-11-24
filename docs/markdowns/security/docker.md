@@ -5,7 +5,7 @@ icon: material/docker
 #### Docker Runtime Vulnerability Scanning
 
 #### CIS benchmark
-```
+```bash
 docker run --rm --net host --pid host --userns host --cap-add audit_control \
     -e DOCKER_CONTENT_TRUST=$DOCKER_CONTENT_TRUST \
     -v /etc:/etc:ro \
@@ -19,7 +19,7 @@ docker run --rm --net host --pid host --userns host --cap-add audit_control \
 ```
 
 #### Secured Docker daemon
-```
+```bash
 vi /etc/docker/daemon.json
 {
     "icc": false,

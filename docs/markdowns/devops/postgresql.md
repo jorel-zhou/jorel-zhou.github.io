@@ -17,7 +17,7 @@ show lists;
 ```
 
 #### check postgresql DB connections
-```
+```bash
 pg_ctl status
 ps -ef |grep postgres |wc -l
 select count(1) from pg_stat_activity;
