@@ -106,8 +106,12 @@ plugins:
   - search
 nav:
 - Home: index.md
-- Cloud:  
+- Cloud:
+  - markdowns/cloud/alicloud.md
+  - markdowns/cloud/huawei.md
+  - markdowns/cloud/tencent.md  
   - markdowns/cloud/aws.md
+  - markdowns/cloud/gcp.md
 - Architecture: 
   - markdowns/architecture/microservice.md
 - DevOps:  
@@ -118,12 +122,14 @@ nav:
   - markdowns/devops/openshift.md
   - markdowns/devops/airflow.md
   - markdowns/devops/postgresql.md
+  - markdowns/devops/docker.md
 - Security:  
   - markdowns/security/docker.md
 - Development:  
   - markdowns/development/scrum.md
   - markdowns/development/maven.md
   - markdowns/development/git.md
+  - markdowns/development/neural-networks.md
 - Tools:  
   - markdowns/tools/curl.md
 - Reference:  
