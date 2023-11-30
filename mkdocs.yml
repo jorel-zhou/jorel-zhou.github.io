@@ -113,6 +113,7 @@ nav:
   - markdowns/cloud/aws.md
   - markdowns/cloud/gcp.md
 - Architecture: 
+  - markdowns/architecture/index.md
   - markdowns/architecture/microservice.md
 - DevOps:  
   - markdowns/devops/ulimit.md
@@ -135,3 +136,4 @@ nav:
 - Reference:  
   - Shell Command:
     - markdowns/reference/links.md
+  - markdowns/reference/best-opensource.md

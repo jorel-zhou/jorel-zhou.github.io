@@ -73,4 +73,6 @@ git clone ...
 git lfs pull
 #Reinstate smudge
 git lfs install --force 
+
+git show-ref --tags "refs/tags/$tag"
 ```
