@@ -16,17 +16,17 @@ icon: material/brain
 
 梯度下降算法是求解无约束最优化问题的一种常用方法。
 
-1. 线性拟合
-        $
-        y = wx + b
-        $
+1. 线性拟合  
+$
+y = wx + b
+$
 
-2. 损失函数
-   $
-    J = \frac{1}{2m}\sum_{n=1}^{\infty}(\Delta y_i^2)
-   $
+1. 损失函数
+$
+J = \frac{1}{2m}\sum_{n=1}^{\infty}(\Delta y_i^2)
+$
 
-3. 梯度下降算法找到最小的损失 - 回归(Regression) 或 分类 (Classification)
+2. 梯度下降算法找到最小的损失 - 回归(Regression) 或 分类 (Classification)
 
 #### 神经网络
 
