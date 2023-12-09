@@ -1,0 +1,367 @@
+<mxfile host="65bd71144e">
+    <diagram id="FLcrcYEjAZ3jTUQ6zs2c" name="Page-1">
+        <mxGraphModel dx="1811" dy="4351" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="124" style="edgeStyle=none;curved=1;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="76" target="56" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="997" y="486.5" width="426" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="992" y="263.5" width="426" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="992" y="-285.5" width="382" height="152" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="148" y="478.5" width="343" height="119" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="&lt;h1&gt;汽车行业大数据平台&lt;/h1&gt;&lt;p&gt;以下图基于宝马大数据平台项目&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="175" y="-285.5" width="500" height="82" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="386" y="201" width="96" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="shape=mxgraph.signs.transportation.car_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="9" vertex="1">
+                    <mxGeometry width="64" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.local_disk;" parent="9" vertex="1">
+                    <mxGeometry x="64" width="32" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="shape=mxgraph.signs.transportation.car_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="9" vertex="1">
+                    <mxGeometry width="64" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="shape=mxgraph.signs.transportation.car_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="9" vertex="1">
+                    <mxGeometry width="64" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="shape=mxgraph.signs.transportation.car_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="9" vertex="1">
+                    <mxGeometry width="64" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="shape=mxgraph.signs.transportation.car_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="9" vertex="1">
+                    <mxGeometry width="64" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="195" y="201" width="96" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="shape=mxgraph.signs.transportation.car_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="10" vertex="1">
+                    <mxGeometry width="64" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.local_disk;" parent="10" vertex="1">
+                    <mxGeometry x="64" width="32" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="shape=mxgraph.signs.transportation.car_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="10" vertex="1">
+                    <mxGeometry width="64" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="shape=mxgraph.signs.transportation.car_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="10" vertex="1">
+                    <mxGeometry width="64" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="shape=mxgraph.signs.transportation.car_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="10" vertex="1">
+                    <mxGeometry width="64" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="shape=mxgraph.signs.transportation.car_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="10" vertex="1">
+                    <mxGeometry width="64" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="576" y="201" width="96" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="shape=mxgraph.signs.transportation.car_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="17" vertex="1">
+                    <mxGeometry width="64" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.local_disk;" parent="17" vertex="1">
+                    <mxGeometry x="64" width="32" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="shape=mxgraph.signs.transportation.car_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="17" vertex="1">
+                    <mxGeometry width="64" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="shape=mxgraph.signs.transportation.car_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="17" vertex="1">
+                    <mxGeometry width="64" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="shape=mxgraph.signs.transportation.car_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="17" vertex="1">
+                    <mxGeometry width="64" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="shape=mxgraph.signs.transportation.car_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="17" vertex="1">
+                    <mxGeometry width="64" height="51" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" style="edgeStyle=none;html=1;exitX=0.855;exitY=0;exitDx=0;exitDy=4.35;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="25" target="28" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="38" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="35" vertex="1" connectable="0">
+                    <mxGeometry x="0.2173" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" value="Landing Zone" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="252" y="495" width="60" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Big Data&lt;br&gt;File Storage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="155" y="490" width="83" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="28" target="34" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="36" vertex="1" connectable="0">
+                    <mxGeometry x="-0.245" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="Ingest Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="356" y="309" width="120" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" style="edgeStyle=none;html=1;entryX=0.145;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;" parent="1" source="29" target="25" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="252" y="426"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="37" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="33" vertex="1" connectable="0">
+                    <mxGeometry x="-0.2705" y="3" relative="1" as="geometry">
+                        <mxPoint x="-3" y="-1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" value="Copy Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="192" y="309" width="120" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="29" target="12" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="268" y="256" as="sourcePoint"/>
+                        <mxPoint x="318" y="206" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="31" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="29" target="4" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="262" y="319" as="sourcePoint"/>
+                        <mxPoint x="281.29032258064535" y="241" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="32" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="29" target="19" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="272" y="329" as="sourcePoint"/>
+                        <mxPoint x="291.29032258064535" y="251" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="121" style="edgeStyle=none;curved=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.855;exitY=0;exitDx=0;exitDy=4.35;exitPerimeter=0;" parent="1" source="34" target="40" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Ingested Zone" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="353" y="495" width="60" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" style="edgeStyle=none;curved=1;html=1;" parent="1" source="40" target="45" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="Session Checker" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="521" y="309" width="120" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Common Services" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="1003" y="-271.5" width="128" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="Data Catalog" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1046" y="-222.5" width="120" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="MDF4 Tools" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1195" y="-222.5" width="120" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" style="edgeStyle=none;curved=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="45" target="63" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="139" style="edgeStyle=none;curved=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="45" target="127" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="899" y="186"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="45" value="Data Quality Topics" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/integration/System_Topic.svg;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="806" y="307" width="68" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="120" style="edgeStyle=none;curved=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="47" target="51" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="123" style="edgeStyle=none;curved=1;html=1;entryX=0.382;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.003;exitY=0.405;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="47" target="45" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="883" y="46"/>
+                            <mxPoint x="835" y="206"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="47" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="994" y="-120" width="385.5" height="152" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="Data Quliaty Services (DQ Apps)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="1008" y="-107" width="183" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="Data Quality Framework Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1046" y="-62" width="120" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="Data Quality SMARD Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1195" y="-62" width="120" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="RAAS Reprocessing" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="1520" y="-80.5" width="185" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" style="edgeStyle=none;curved=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="52" target="76" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1577" y="583"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="140" value="ingestable" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="83" vertex="1" connectable="0">
+                    <mxGeometry x="-0.3543" y="-18" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="52" value="Session Gate" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1499" y="308.5" width="120" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="Data Qualifier Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="1008" y="278.5" width="129" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="504" y="478.5" width="343" height="119" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="Session Checker Trigger" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="521" y="366" width="120" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.clock;" parent="1" vertex="1">
+                    <mxGeometry x="530" y="396" width="22" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" style="edgeStyle=none;curved=1;html=1;entryX=0.48;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="63" target="66" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="Tag Consumer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1012.5" y="308.5" width="120" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" style="edgeStyle=none;curved=1;html=1;" parent="1" source="64" target="67" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1249" y="387.5"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="64" value="Qualifier Checker" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1144" y="308.5" width="120" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" style="edgeStyle=none;curved=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="65" target="52" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1461.3333740234375" y="337" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="65" value="Processing Trigger" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1279" y="308.5" width="120" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" style="edgeStyle=none;curved=1;html=1;" parent="1" source="66" target="64" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="Redis HMap" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="1116" y="403.5" width="50" height="42" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" style="edgeStyle=none;curved=1;html=1;" parent="1" source="67" target="65" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="Redis Streams" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="1253" y="403.5" width="50" height="42" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="Ingest Pipeline" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1017" y="557.5" width="120" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="Data Processing Pipelines" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="1003.5" y="503" width="129" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="Marker Importer Pipeline" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1157" y="557.5" width="120" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="Image and Video Pipeline" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1290" y="557.5" width="120" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="Auto Labeling Pipeline" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1017" y="627.5" width="120" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="Signal Extraction Pipeline" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1157" y="627.5" width="120" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="103" value="Session Qualifier State" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="762" y="498" width="60" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="117" value="File Metadata" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="594" y="500" width="60" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="118" value="Data Metadata" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="684" y="500" width="60" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="119" value="Big Data&lt;br&gt;Table" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="490" width="83" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="138" style="edgeStyle=none;curved=1;html=1;entryX=1;entryY=0.623;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="127" target="47" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1561" y="45"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="141" value="Session Checked" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="138" vertex="1" connectable="0">
+                    <mxGeometry x="0.35" y="33" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="127" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="994" y="42" width="426" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="128" value="DQ Checks Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="1010" y="57" width="129" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="129" style="edgeStyle=none;curved=1;html=1;entryX=0.48;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="130" target="135" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="130" value="Tag Consumer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1014.5" y="87" width="120" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="131" style="edgeStyle=none;curved=1;html=1;" parent="1" source="132" target="137" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1251" y="166"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="132" value="Qualifier Checker" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1146" y="87" width="120" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="133" value="Processing Trigger" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1281" y="87" width="120" height="57" as="geometry"/>
+                </mxCell>
+                <mxCell id="134" style="edgeStyle=none;curved=1;html=1;" parent="1" source="135" target="132" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="135" value="Redis HMap" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="1118" y="182" width="50" height="42" as="geometry"/>
+                </mxCell>
+                <mxCell id="136" style="edgeStyle=none;curved=1;html=1;" parent="1" source="137" target="133" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="137" value="Redis Streams" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="1255" y="182" width="50" height="42" as="geometry"/>
+                </mxCell>
+                <mxCell id="142" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="40" target="117">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="702" y="383"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="143" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="40" target="118">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="739" y="398"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
