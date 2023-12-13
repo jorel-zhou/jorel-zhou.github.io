@@ -127,6 +127,7 @@ nav:
 - Security:  
   - markdowns/security/docker.md
 - Development:  
+  - markdowns/development/ssh.md
   - markdowns/development/scrum.md
   - markdowns/development/maven.md
   - markdowns/development/git.md
