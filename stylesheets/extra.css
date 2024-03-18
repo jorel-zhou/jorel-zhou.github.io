@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Roboto";
+  src: "../fonts/Roboto-Regular.ttf";
+}
+
+@font-face {
+  font-family: "Fira Code";
+  src: "../fonts/FiraCode-VariableFont_wght.ttf";
+}
+
+:root {
+  /* --md-primary-fg-color: #0078D7;
+  --md-primary-fg-color--light: #0078D7;
+  --md-primary-fg-color--dark: #0078D7; */
+
+  --md-text-font: "Roboto";
+  --md-code-font: "Fira Code";
+}
+
+[data-md-color-scheme="Fluent Design"] {
+  --md-primary-fg-color:        #0078D7;
+  --md-primary-fg-color--light: #0078D7;
+  --md-primary-fg-color--dark:  #0078D7;
+}
+
+.md-grid {
+  max-width: 1440px;
+}
+
+.md-typeset {
+  font-size: .7rem;
+}
