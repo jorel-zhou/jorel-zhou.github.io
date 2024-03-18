@@ -7,6 +7,7 @@ hide:
 
 [英语口语视频源](https://www.bilibili.com/video/BV1AK411G7uy?p=1&vd_source=4e3b3c52df7c5472145d696af2dbc1fc)
 
+```
 a slap in the face: "an unexpected rejection or affront" 意外的拒绝或侮辱（更多表达像被人扇了巴掌后一样的感觉）
 例句: Wow, that feels like a slap in the face. = that really hurt me.
 reconsider  CDC is reconsidering its face mask policy.
@@ -36,6 +37,9 @@ I'm always fixated (使痴迷；使固着) on my grammer mistakes when I speak E
 torn between two choices. 
 1. I'm really torn.
 I'm caught between a rock and a hard place. 我被困在进退两难的地步很纠结。(俚语)
+She/he is very indecisive and can never make up his/her mind. 她/他是一个非常优柔寡断的人，总是无法下定决心。
+Someone is such a Gemini. 你太双子座了.
 
+```
 ## Contact
 [E-Mail :fontawesome-solid-paper-plane:](mailto:jorel_zhou@outlook.com){ .md-button }
